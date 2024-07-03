@@ -2,6 +2,8 @@
 
 Bridezilla_NLP is a project designed to compare two businesses (such as hotels or museums) based on data from Google reviews. The goal is to extract unique positive and negative aspects for each place from these reviews. This project utilizes an agent implemented with the LangGraph library and an LLM named Llama 3 from Facebook.
 
+This project has been done as part of the 30 Hours program of Baot Community.
+
 ## Table of Contents
 
 - [Features](#features)
